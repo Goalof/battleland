@@ -1,0 +1,5 @@
+export { default as Header2 } from "./Header2"
+export { default as BurgerMenu } from "./BurgerMenu"
+export { default as Textloop } from "./Textloop"
+export { default as Imgloop } from "./Imgloop"
+export { default as Header } from "./Header"
